@@ -5,6 +5,8 @@ package com;
  */
 public class B {
 
+    private String name;
+
     public void printer(){
         System.out.println("I am B");
     }
