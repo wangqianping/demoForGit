@@ -5,7 +5,11 @@ package com;
  */
 public class B {
 
-    public void printer(){
+
+    private String name;
+    private String sex;
+
+    public void printer() {
         System.out.println("I am B");
     }
 }
