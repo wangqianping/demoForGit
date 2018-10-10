@@ -5,4 +5,7 @@ package com;
  */
 public class D {
     private String name;
+    public void print(){
+        System.out.println("I am C");
+    }
 }
