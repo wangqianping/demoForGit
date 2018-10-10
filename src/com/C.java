@@ -15,4 +15,8 @@ public class C {
     public void print(){
         System.out.println("I am C");
     }
+
+    public String getName() {
+        return name;
+    }
 }
