@@ -12,4 +12,9 @@ public class C {
     public C() {
     }
 
+    private void print(){
+        System.out.println("I am C");
+    }
+
+
 }
