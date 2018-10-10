@@ -6,6 +6,8 @@ package com;
 public class C {
 
     private String name;
+    private String sex;
+
 
     public C() {
     }
