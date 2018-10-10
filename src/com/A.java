@@ -9,6 +9,7 @@ public class A {
     private String name;
     private String sex;
     private int age;
+    private int num;
 
     public String getName() {
         return name;
