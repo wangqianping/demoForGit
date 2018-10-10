@@ -20,4 +20,8 @@ public class B {
     public void setName(String name) {
         this.name = name;
     }
+
+    public String getSex() {
+        return sex;
+    }
 }
