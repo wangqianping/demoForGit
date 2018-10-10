@@ -6,4 +6,8 @@ package com;
 public class C {
 
     private String name;
+
+    public C() {
+    }
+
 }
