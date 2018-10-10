@@ -10,7 +10,6 @@ public class A {
     private String sex;
     private int age;
 
-
     public String getName() {
         return name;
     }
