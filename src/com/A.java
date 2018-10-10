@@ -34,8 +34,16 @@ public class A {
     public void setAge(int age) {
         this.age = age;
     }
+    
+    public int getNum() {
+		return num;
+	}
 
-    public void print(){
+	public void setNum(int num) {
+		this.num = num;
+	}
+
+	public void print(){
         System.out.println("hello,I am A");
     }
 
