@@ -7,14 +7,12 @@ public class C {
 
     private String name;
     private String sex;
-
+    private int age;
 
     public C() {
     }
 
-    private void print(){
+    public void print(){
         System.out.println("I am C");
     }
-
-
 }
