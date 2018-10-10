@@ -6,6 +6,7 @@ package com;
 public class D {
     private String name;
     private String sex;
+    private String a;
     public void print(){
         System.out.println("I am C");
     }
