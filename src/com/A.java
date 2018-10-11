@@ -11,6 +11,7 @@ public class A {
     private int age;
     private int num;
     private int num1;
+    private int num2;
     private String test;
 
     public String getName() {
