@@ -17,6 +17,7 @@ public class A {
     private String test3;
     private String test4;
     private String test5;
+    private String test6;
 
     public String getName() {
         return name;
