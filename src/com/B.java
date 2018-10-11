@@ -8,6 +8,7 @@ public class B {
 
     private String name;
     private String sex;
+    private String test;
 
     public void printer() {
         System.out.println("I am B");
