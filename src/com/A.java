@@ -12,6 +12,7 @@ public class A {
     private int num;
     private String test;
     private String test2;
+    private String test3;
 
     public String getName() {
         return name;
