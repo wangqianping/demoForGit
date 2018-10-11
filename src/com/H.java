@@ -6,4 +6,5 @@ package com;
 public class H {
 
     private String a;
+    private String b;
 }
