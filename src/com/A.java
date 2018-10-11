@@ -48,4 +48,7 @@ public class A {
         System.out.println("hello,I am A");
     }
 
+    public String getTest() {
+        return test;
+    }
 }
