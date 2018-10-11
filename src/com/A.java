@@ -13,6 +13,9 @@ public class A {
     private int num1;
     private int num2;
     private String test;
+    private String test2;
+    private String test3;
+    private String test4;
 
     public String getName() {
         return name;
