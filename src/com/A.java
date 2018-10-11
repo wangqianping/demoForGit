@@ -10,6 +10,14 @@ public class A {
     private String sex;
     private int age;
     private int num;
+    private int num1;
+    private int num2;
+    private String test;
+    private String test2;
+    private String test3;
+    private String test4;
+    private String test5;
+    private String test6;
 
     public String getName() {
         return name;
@@ -34,17 +42,12 @@ public class A {
     public void setAge(int age) {
         this.age = age;
     }
-    
-    public int getNum() {
-		return num;
-	}
 
-	public void setNum(int num) {
-		this.num = num;
-	}
-
-	public void print(){
+    public void print(){
         System.out.println("hello,I am A");
     }
 
+    public String getTest() {
+        return test;
+    }
 }
