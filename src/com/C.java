@@ -8,7 +8,9 @@ public class C {
     private String name;
     private String sex;
     private int age;
+    private String name2;
     private String name3;
+
     public C() {
     }
 
